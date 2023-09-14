@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="44399dbc-69bc-4901-8966-5076a53cc94c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/Pages/Destination/Destination.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pages/Destination/Destination.scss" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2UqFZRYu3ANBBH5oA5Q38GCGv5W" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "http.proxy",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Makc\Desktop\Frontend Mentor\spaces-app\src" />
+      <recent name="C:\Users\Makc\Desktop\Frontend Mentor\spaces-app\src\Components\Header\HeaderLogo" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="44399dbc-69bc-4901-8966-5076a53cc94c" name="Changes" comment="" />
+      <created>1693659259912</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1693659259912</updated>
+      <workItem from="1693659265090" duration="11000" />
+      <workItem from="1693659281043" duration="1666000" />
+      <workItem from="1693660993749" duration="6303000" />
+      <workItem from="1693755739374" duration="5660000" />
+      <workItem from="1693804568809" duration="12329000" />
+      <workItem from="1693832349944" duration="5093000" />
+      <workItem from="1693894069124" duration="4685000" />
+      <workItem from="1693903122880" duration="6000" />
+      <workItem from="1693904298621" duration="26000" />
+      <workItem from="1693904759689" duration="18000" />
+      <workItem from="1693904908223" duration="758000" />
+      <workItem from="1693905698553" duration="12000" />
+      <workItem from="1693907432683" duration="4657000" />
+      <workItem from="1693914669009" duration="5540000" />
+      <workItem from="1694012893468" duration="9000" />
+      <workItem from="1694611752183" duration="12528000" />
+      <workItem from="1694670008672" duration="9202000" />
+      <workItem from="1694688484303" duration="2998000" />
+      <workItem from="1694692125478" duration="928000" />
+      <workItem from="1694693128804" duration="891000" />
+      <workItem from="1694696297720" duration="483000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
